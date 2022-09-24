@@ -169,11 +169,7 @@ nav button:hover{
     position: relative;
    
 }
-/* .footer img{
-    
 
-
-} */
 .latest{
     
     padding-left: 96px;
@@ -408,7 +404,6 @@ label #cancel{
  }
 } */
 
-
 .toggle-menu{
     transform: translateX(10%) translateY(100%);
     display: none;
@@ -482,8 +477,7 @@ li[class^="toggle-item-"] a:hover{
     display: none;
 }
 #toggle-btn:checked +ul{
-    display: block;
-     
+    display: block;  
 }
 
 @media screen and (max-width:826px) {
