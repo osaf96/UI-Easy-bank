@@ -1,8 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    box-sizing: border-box;
-    
+    box-sizing: border-box; 
 }
 html{
     width: 100%;
@@ -10,7 +9,6 @@ html{
 body{
   /*  background:#ededef;*/
     background:  hsl(0, 0%, 98%);
-   
     padding-left: 0px;
     
 }
