@@ -1,8 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    box-sizing: border-box;
-    
+    box-sizing: border-box; 
 }
 html{
     width: 100%;
@@ -10,9 +9,7 @@ html{
 body{
   /*  background:#ededef;*/
     background:  hsl(0, 0%, 98%);
-    /* left:  50px; */
     padding-left: 0px;
-    
 }
 p{
     color:hsl(233, 8%, 62%);
@@ -69,15 +66,13 @@ nav button:hover{
     background-repeat: no-repeat;
     background-size: 1000px 1000px;
     background-position:  right -80px top -380px;
-    /* background-image: url(./images/image-mockups.png); */
     
 }
 .heading-sub{
     padding-top: 3rem;
     width: 25%;
     position: relative;
-    /* left: 50px; */
-    
+ 
 }
 .para-heading{
     padding-right: 50px;
@@ -135,7 +130,6 @@ nav button:hover{
 .para-2 p{
     font-size: 1.3rem;
     width: 70%;
-    
 }
 .logos{
     width: 100%;
@@ -169,11 +163,7 @@ nav button:hover{
     position: relative;
    
 }
-/* .footer img{
-    
 
-
-} */
 .latest{
     
     padding-left: 96px;
@@ -247,7 +237,6 @@ nav button:hover{
     
 }
 .attribution a span{
-    /* font-size: 0.3rem; */
     color: #fff;
     text-decoration: underline;
     
@@ -261,10 +250,8 @@ nav button:hover{
     color: #fff;
     opacity: 1;
 }
-.req-button:hover{
-    opacity: 0.8;
-    transform: scale(1.1);
-} */
+
+ */
 button{
     font-size: 1.13rem;
     padding: 12px;
@@ -408,7 +395,6 @@ label #cancel{
  }
 } */
 
-
 .toggle-menu{
     transform: translateX(10%) translateY(100%);
     display: none;
@@ -482,8 +468,7 @@ li[class^="toggle-item-"] a:hover{
     display: none;
 }
 #toggle-btn:checked +ul{
-    display: block;
-     
+    display: block;  
 }
 
 @media screen and (max-width:826px) {
