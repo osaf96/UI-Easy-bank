@@ -509,10 +509,6 @@ li[class^="toggle-item-"] a:hover{
 
 .heading{
    
-    /* background-image: url(./images/bg-intro-mobile.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-size: 600px 600px; */
     /* background-position:  right -60px top -280px; */
     /* background-image: url(./images/image-mockups.png); */
    background-image: url(./images/bg-intro-mobile.svg); 
