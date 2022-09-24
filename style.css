@@ -10,7 +10,7 @@ html{
 body{
   /*  background:#ededef;*/
     background:  hsl(0, 0%, 98%);
-    /* left:  50px; */
+   
     padding-left: 0px;
     
 }
@@ -135,7 +135,6 @@ nav button:hover{
 .para-2 p{
     font-size: 1.3rem;
     width: 70%;
-    
 }
 .logos{
     width: 100%;
