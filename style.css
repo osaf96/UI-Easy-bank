@@ -252,10 +252,8 @@ nav button:hover{
     color: #fff;
     opacity: 1;
 }
-.req-button:hover{
-    opacity: 0.8;
-    transform: scale(1.1);
-} */
+
+ */
 button{
     font-size: 1.13rem;
     padding: 12px;
