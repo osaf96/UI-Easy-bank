@@ -519,9 +519,12 @@ li[class^="toggle-item-"] a:hover{
    background-size: contain cover;
 }
 .heading-sub{
-   padding-top: 20.7rem;
-   width: 65%;
+   padding-top: 15.7rem;
+   width: 90%;
    position: relative;
+}
+.main-heading{
+    text-align: center;
 }
 .img-2{
  
