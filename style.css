@@ -519,9 +519,12 @@ li[class^="toggle-item-"] a:hover{
    background-size: contain cover;
 }
 .heading-sub{
-   padding-top: 20.7rem;
-   width: 65%;
+   padding-top: 15.7rem;
+   width: 90%;
    position: relative;
+}
+.main-heading{
+    text-align: center;
 }
 .img-2{
  
@@ -533,6 +536,10 @@ li[class^="toggle-item-"] a:hover{
 .para-2{
     width: 100%;
 }
+.para-2p{
+ width: 100%;
+ text-align: center;
+}
 .logos{
     display: grid;
     grid-template-columns: repeat(1,1fr);
@@ -543,5 +550,9 @@ li[class^="toggle-item-"] a:hover{
 .footer{
     display: grid;
     grid-template-columns: repeat(1 ,1fr);
+}
+.latest{
+    padding: 0%;
+    text-align: center;
 }
 }
