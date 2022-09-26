@@ -535,7 +535,7 @@ li[class^="toggle-item-"] a:hover{
     grid-template-columns: repeat(1,1fr);
 }
 .logos p{
-    font-size: 14px;
+    font-size: 15px;
 }
 .footer{
     display: grid;
